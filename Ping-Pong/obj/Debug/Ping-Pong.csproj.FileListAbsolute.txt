@@ -1,0 +1,7 @@
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\obj\Debug\Ping_Pong.MainForm.resources
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csproj.GenerateResource.Cache
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.exe
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.pdb
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.exe
+C:\Users\Artem\Documents\SharpDevelop Projects\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.pdb
